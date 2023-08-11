@@ -1,1 +1,1 @@
-examples of python import modules
+Learning python modules in depth
