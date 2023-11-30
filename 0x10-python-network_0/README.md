@@ -11,6 +11,5 @@
 * OS: Ubuntu 14.04 LTS
 * Container: yes
 * Style guidelines: [Shellscript for Bash](https://github.com/koalaman/shellcheck)
-
 ## Authors
-EVERLYNE AKINYI
+ANDREW SIMIYU
