@@ -9,5 +9,5 @@
 
 ---
 ### Authors
-EVERLYNE AKINYI
+ANDREW SIMIYU
 
