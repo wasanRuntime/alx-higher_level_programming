@@ -19,4 +19,4 @@
 
 ---
 ### Authors
-Robert Kamau Njonjo
+Andrew Simiyu
